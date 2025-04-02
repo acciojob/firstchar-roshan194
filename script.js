@@ -1,6 +1,7 @@
 function firstChar(text) {
   return text.trim()[0] || '';
 }
+const userInput = prompt("Enter a string:");
 
 // Do not change the code below
 //Uncomment the following line to show the prompt popup
